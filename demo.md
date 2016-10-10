@@ -17,3 +17,7 @@
   * Use artillery
 
 artillery quick --duration 60 --rate 10 -n 20 http://kenazvmss4.westus.cloudapp.azure.com/
+
+### Optional
+1. Puppet Purge Nodes - Auto-purge script to control license bloat
+2. Azure auto-signing configuration 
