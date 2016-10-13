@@ -12,7 +12,7 @@ artillery quick --duration 60 --rate 10 -n 20 http://kenazvmss4.westus.cloudapp.
 | wintest1      | 13.88.184.222 |
 | kenazvmss     | kenazvmss1.westus.cloudapp.azure.com |
 
-## Puppet Master FQDN
+### Puppet Master FQDN
 ```
 puppet0cbe.westus.cloudapp.azure.com
 ```
