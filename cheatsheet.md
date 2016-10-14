@@ -8,7 +8,7 @@ artillery quick --duration 120 --rate 500 -n 20 http://kenazvmss1.westus.cloudap
 ```
 
 #### wintest1
-artillery quick --duration 120 --rate 500 -n 20 http://kenaz-wintest1.westus.cloudapp.azure.com
+artillery quick --duration 120 --rate 500 -n 20 http:// kenaz-wintest1.westus.cloudapp.azure.com
 
 ### IPs/Hostnames
 | Host          | IP/DNS            |
